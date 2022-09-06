@@ -7,7 +7,7 @@
 <img align="left" alt="Bash" width="50px" src="https://github.com/umbraz1/umbraz1/blob/main/img/bash.svg" />
 <img align="left" alt="C++" width="50px" src="https://github.com/umbraz1/umbraz1/blob/main/img/c%2B%2B.svg" />
 <img align="left" alt="MySQL" width="50px" src="https://github.com/umbraz1/umbraz1/blob/main/img/mysql.svg" />
-<img align="left" alt="Java" width="50px" src="https://github.com/umbraz1/umbraz1/blob/main/img/java.svg />
+<img align="left" alt="Java" width="50px" src="https://github.com/umbraz1/umbraz1/blob/main/img/java.svg" />
 
 
 <br />
